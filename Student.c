@@ -23,5 +23,8 @@ int main()
     printf("\nStudent details\n");
     printf("Name:%s\n",s1.name);
     printf("Gender:%s\n",s1.gender);
+    printf("Age:%d\n",s1.age);
     printf("Collegename:%s\n",s1.collegename);
-    
+    printf("Marks:%2f\n",s1.marks);
+return 0;
+}
